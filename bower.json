@@ -22,8 +22,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": ">2.0.0",
-    "jquery.event.drag": "lib/jquery.event.drag-2.2.js",
-    "jquery.event.drop": "lib/jquery.event.drop-2.2.js"
+    "jquery": ">2.0.0"
   }
 }
