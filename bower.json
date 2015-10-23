@@ -4,6 +4,7 @@
   "authors": [
     "Danny <ricoterox@gmail.com>"
   ],
+  "version": "1.0.0",
   "description": "fork of Original SlickGrid",
   "main": ["slick.core.js", "slick.grid.js", "slick.dataview.js"],
   "moduleType": [
