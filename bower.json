@@ -1,0 +1,28 @@
+{
+  "name": "SlickGrid",
+  "homepage": "https://github.com/RiCoTeRoX/SlickGrid",
+  "authors": [
+    "Danny <ricoterox@gmail.com>"
+  ],
+  "description": "fork of Original SlickGrid",
+  "main": ["slick.core.js", "slick.grid.js", "slick.dataview.js"],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "slickgrid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">2.0.0",
+    "jquery.event.drag": "lib/jquery.event.drag-2.2.js",
+    "jquery.event.drop": "lib/jquery.event.drop-2.2.js"
+  }
+}
